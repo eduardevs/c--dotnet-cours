@@ -1,0 +1,5 @@
+/workspaces/docker-cnet/App/bin/Release/net7.0/publish/DotNet.Docker
+/workspaces/docker-cnet/App/bin/Release/net7.0/publish/DotNet.Docker.dll
+/workspaces/docker-cnet/App/bin/Release/net7.0/publish/DotNet.Docker.deps.json
+/workspaces/docker-cnet/App/bin/Release/net7.0/publish/DotNet.Docker.runtimeconfig.json
+/workspaces/docker-cnet/App/bin/Release/net7.0/publish/DotNet.Docker.pdb
